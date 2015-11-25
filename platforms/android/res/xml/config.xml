@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.asianpaints.docrelease" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="AuthProxy">
+        <param name="android-package" value="com.sap.mp.cordova.plugins.authProxy.AuthProxy" />
+        <param name="onload" value="true" />
+    </feature>
+    <preference name="SAPKapselHandleHttpRequests" value="false" />
+    <feature name="SQLitePlugin">
+        <param name="android-package" value="io.liteglue.SQLitePlugin" />
+    </feature>
+    <feature name="Logging">
+        <param name="android-package" value="com.sap.mp.cordova.plugins.logger.Logger" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <feature name="MAFLogonCoreCDVPluginJS" required="true">
+        <param name="android-package" value="com.sap.maf.html5.android.MAFLogonCoreCDVPlugin" />
+    </feature>
+    <feature name="SMPPushPlugin" onload="true" required="true">
+        <param name="android-package" value="com.sap.mp.push.PushPlugin" />
+    </feature>
+    <name>AsianPaints_DRA</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

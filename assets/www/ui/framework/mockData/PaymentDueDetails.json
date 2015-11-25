@@ -1,0 +1,97 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DueDatePayment"
+                },
+                "companyCode": "",
+                "dealerCode": "",
+                "dueDate": "/Date(1446854400000)/",
+                "fcd": "120585.750",
+                "rcd": "4275.730",
+                "others": "295430.360"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DueDatePayment"
+                },
+                "companyCode": "",
+                "dealerCode": "",
+                "dueDate": "/Date(1446940800000)/",
+                "fcd": "120585.750",
+                "rcd": "4275.730",
+                "others": "295430.360"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DueDatePayment"
+                },
+                "companyCode": "",
+                "dealerCode": "",
+                "dueDate": "/Date(1447027200000)/",
+                "fcd": "120585.750",
+                "rcd": "4275.730",
+                "others": "295430.360"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DueDatePayment"
+                },
+                "companyCode": "",
+                "dealerCode": "",
+                "dueDate": "/Date(1447113600000)/",
+                "fcd": "120585.750",
+                "rcd": "4275.730",
+                "others": "295430.360"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DueDatePayment"
+                },
+                "companyCode": "",
+                "dealerCode": "",
+                "dueDate": "/Date(1447200000000)/",
+                "fcd": "120585.750",
+                "rcd": "4275.730",
+                "others": "295430.360"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DueDatePayment"
+                },
+                "companyCode": "",
+                "dealerCode": "",
+                "dueDate": "/Date(1447286400000)/",
+                "fcd": "120585.750",
+                "rcd": "4275.730",
+                "others": "295430.360"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DueDatePaymentSet(companyCode='',dealerCode='')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DueDatePayment"
+                },
+                "companyCode": "",
+                "dealerCode": "",
+                "dueDate": "/Date(1447372800000)/",
+                "fcd": "120585.750",
+                "rcd": "4275.730",
+                "others": "295430.360"
+            }
+        ]
+    }
+}

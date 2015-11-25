@@ -1,0 +1,61 @@
+.red {
+	background-color: red;
+}
+
+.red:hover {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.blue:hover {
+	background-color: blue;
+}
+
+.green {
+	background-color: green;
+}
+
+.green:hover {
+	background-color: green;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.yellow:hover {
+	background-color: yellow;
+}
+
+.whiteText {
+	color: white;
+}
+
+.dynamicTableToolbar {
+	background-color: #67809F;
+}
+
+.dynamicTableTitleText {
+	padding-left: 20px;
+	color: white !important;
+	font-size: 20px !important;
+}
+
+.dynamicTable tr:nth-child(even) {
+/* 	background-color: #ECF7FF; */
+}
+
+.sapUiTableCtrl tr{
+	cursor: pointer!important;
+}
+
+.dynamicTableCellText {
+	cursor: pointer!important;
+}
+
+.tableHeader {
+	background-color: #335C99 !important;
+}

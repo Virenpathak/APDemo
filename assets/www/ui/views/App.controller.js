@@ -1,0 +1,1 @@
+sap.ui.controller("views.App", {});

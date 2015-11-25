@@ -1,0 +1,12 @@
+.SplitAppDetailPageWebTable {
+/* 	padding-left: 2%; */
+/* 	padding-right: 2%; */
+}
+
+.SplitAppDetailPageWebTable tr:nth-child(even) {
+	background-color: #ECF7FF;
+}
+
+.SplitAppDetailPageWebMessageDialogText {
+	margin: 5%;
+}

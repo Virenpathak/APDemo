@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv='Content-Type' content='text/html;charset=UTF-8' />
+<meta http-equiv="Cache-Control"
+	content="no-cache, no-store, must-revalidate" />
+<script id="sap-ui-bootstrap" src="../resources/sap-ui-core.js"
+	data-sap-ui-libs="sap.m, sap.ui.commons, sap.ui.table"
+	data-sap-ui-theme="sap_bluecrystal" data-sap-ui-preload="none"
+	data-sap-ui-xx-bindingSyntax="complex" data-sap-ui-appCacheBuster="./"
+	data-sap-ui-resourceroots='{
+				"mainContent" : "../",
+				"asianpaints.dra" : "./",
+				"views" : "./views",
+				"modules" : "./modules",
+				"framework" : "./framework"
+				}'>
+	
+</script>
+
+<!-- only load the mobile lib "sap.m" and the "sap_bluecrystal" theme -->
+
+<link type="text/css" rel="stylesheet" href="css/style.css" />
+<link type="text/css" rel="stylesheet" href="css/w/style_w.css" />
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/SplitAppDetailPageWeb.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/m/css/SplitAppDetailPageMobile.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/m/css/PushNotification.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/EmployeeTransfer.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/DynamicTable.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/OutOfOffice.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/m/css/DocumentDetail.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/DocumentDetail.css">
+<script>
+	jQuery.sap.require("asianpaints.dra.config.global");
+	checkSession();
+	function checkSession() {
+		if (!window.localStorage.getItem("user")) {
+			sap.m.MessageToast.show("Session Expired");
+			window.location.href = "../index.html";
+		} else {
+			//Clear Local storage
+			window.localStorage.clear();
+		}
+	}
+	new sap.m.Shell("Shell", {
+		title : "Document Release Application",
+		app : new sap.ui.core.ComponentContainer({
+			name : 'asianpaints.dra',
+		})
+	}).placeAt("content");
+</script>
+
+</head>
+<body class="sapUiBody" role="application">
+	<div id="content"></div>
+</body>
+</html>

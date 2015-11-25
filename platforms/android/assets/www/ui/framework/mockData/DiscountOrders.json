@@ -1,0 +1,907 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000112506')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000112506')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1266192000000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 6,
+                "DamCount": 17,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000112506",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000112506',Posnr='000001',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000112506',Posnr='000001',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000112506",
+                            "Posnr": "000001",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.000",
+                            "Vrkme": "DR",
+                            "volume": "0.000"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113116')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113116')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267660800000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113116",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113116',Posnr='000001',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113116',Posnr='000001',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113116",
+                            "Posnr": "000001",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.000",
+                            "Vrkme": "DR",
+                            "volume": "0.000"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113154')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113154')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267660800000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113154",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113154',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113154',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113154",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.010",
+                            "Vrkme": "DR",
+                            "volume": "0.200"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113155')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113155')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267660800000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113155",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113155',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113155',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113155",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.010",
+                            "Vrkme": "DR",
+                            "volume": "0.200"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113156')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113156')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267660800000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113156",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113156',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113156',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113156",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.010",
+                            "Vrkme": "DR",
+                            "volume": "0.200"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113157')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113157')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267660800000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113157",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113157',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113157',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113157",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.010",
+                            "Vrkme": "DR",
+                            "volume": "0.200"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113158')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113158')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267660800000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113158",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113158',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113158',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113158",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.010",
+                            "Vrkme": "DR",
+                            "volume": "0.200"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113217')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113217')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267747200000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113217",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113217',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113217',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113217",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.010",
+                            "Vrkme": "DR",
+                            "volume": "0.200"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113220')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000113220')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1267833600000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000113220",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113220',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000113220',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000113220",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "0.010",
+                            "Vrkme": "DR",
+                            "volume": "0.200"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000138704')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000138704')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1379894400000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000138704",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000138704',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000138704',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000138704",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "1.000",
+                            "Vrkme": "DR",
+                            "volume": "20.000"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000138705')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000138705')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1379894400000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000138705",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000138705',Posnr='000010',skuCode='00260912320')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000138705',Posnr='000010',skuCode='00260912320')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000138705",
+                            "Posnr": "000010",
+                            "skuCode": "00260912320",
+                            "materialDesc": "ASE WHITES BR WHITE 20 LT",
+                            "quantity": "1.000",
+                            "Vrkme": "DR",
+                            "volume": "20.000"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000138706')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000138706')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1379894400000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000138706",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000138706',Posnr='000010',skuCode='00010112150')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000138706',Posnr='000010',skuCode='00010112150')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000138706",
+                            "Posnr": "000010",
+                            "skuCode": "00010112150",
+                            "materialDesc": "APCO SYN ENAMEL FR BLUE 500ML",
+                            "quantity": "1.000",
+                            "Vrkme": "TIN",
+                            "volume": "0.500"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144732')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144732')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1444953600000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000144732",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144732',Posnr='000010',skuCode='00010112150')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144732',Posnr='000010',skuCode='00010112150')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000144732",
+                            "Posnr": "000010",
+                            "skuCode": "00010112150",
+                            "materialDesc": "APCO SYN ENAMEL FR BLUE 500ML",
+                            "quantity": "1.000",
+                            "Vrkme": "TIN",
+                            "volume": "0.500"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144733')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144733')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1444953600000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000144733",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144733',Posnr='000010',skuCode='00010112150')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144733',Posnr='000010',skuCode='00010112150')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000144733",
+                            "Posnr": "000010",
+                            "skuCode": "00010112150",
+                            "materialDesc": "APCO SYN ENAMEL FR BLUE 500ML",
+                            "quantity": "1.000",
+                            "Vrkme": "TIN",
+                            "volume": "0.500"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144734')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144734')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1444953600000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000144734",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144734',Posnr='000010',skuCode='00010112150')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144734',Posnr='000010',skuCode='00010112150')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000144734",
+                            "Posnr": "000010",
+                            "skuCode": "00010112150",
+                            "materialDesc": "APCO SYN ENAMEL FR BLUE 500ML",
+                            "quantity": "1.000",
+                            "Vrkme": "TIN",
+                            "volume": "0.500"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144755')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144755')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1445558400000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000144755",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144755',Posnr='000010',skuCode='00010112150')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144755',Posnr='000010',skuCode='00010112150')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000144755",
+                            "Posnr": "000010",
+                            "skuCode": "00010112150",
+                            "materialDesc": "APCO SYN ENAMEL FR BLUE 500ML",
+                            "quantity": "5.000",
+                            "Vrkme": "TIN",
+                            "volume": "2.500"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144756')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderHeaderSet('0000144756')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderHeader"
+                },
+                "orderDtNTm": "/Date(1445558400000)/",
+                "creditLimit": "9999999999999.000",
+                "netOs": "-318560.560",
+                "discountRate": "0.000",
+                "discountAmount": "0.000",
+                "orderValue": "0.000",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 1,
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "territory": "0001554004",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "distChannel": "10",
+                "orderNo": "0000144756",
+                "OrDescription": "Free of Charge Del.",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "paymentTerms": "Fast CD - Local",
+                "salesOffice": "1582",
+                "salesArea": "0010001001",
+                "NavDiscountOrderHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144756',Posnr='000010',skuCode='00010112150')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/DiscountOrderItemSet(orderNo='0000144756',Posnr='000010',skuCode='00010112150')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.DiscountOrderItem"
+                            },
+                            "orderNo": "0000144756",
+                            "Posnr": "000010",
+                            "skuCode": "00010112150",
+                            "materialDesc": "APCO SYN ENAMEL FR BLUE 500ML",
+                            "quantity": "5.000",
+                            "Vrkme": "TIN",
+                            "volume": "2.500"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

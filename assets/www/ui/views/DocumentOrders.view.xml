@@ -1,0 +1,7 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m" controllerName="views.DocumentOrders" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="DocumentOrders" id="idDocumentOrders">
+		<content>
+		</content>
+	</Page>
+</core:View>

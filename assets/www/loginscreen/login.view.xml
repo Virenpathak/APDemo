@@ -1,0 +1,21 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m" controllerName="loginscreen.login" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Logon Screen" showHeader="false" class="clsPage">
+		<content>
+			<HBox class="clsLoginMain">
+				<VBox class="clsLoginBox">
+					<Image id="imageLogo" alt="alttextimage" src="img/Asian_Paints_Logo1.png"
+						class="clsAsainPaintLogo"></Image>
+					<Input id="userId" width="100%" placeholder="username" class="clsUsername" />
+					<Input id="password" width="100%" placeholder="password" type="Password"
+						class="clsUserPassword" />
+					<!-- <Link text="Forget Password" emphasized="false" href="" class="clsForgetPswdLink" 
+						/> -->
+					<Button width="100%" text="SIGN IN" class="clsLogonBtn" press="onLogin" />
+					<Link text="Login with your EGLOO Credentials" emphasized="false"
+						href="" class="clsCredentialsLink" />
+				</VBox>
+			</HBox>
+		</content>
+	</Page>
+</core:View>

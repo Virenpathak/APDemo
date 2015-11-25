@@ -1,0 +1,59 @@
+.OutOfOfficeWebBodyContainer {
+/* 	margin: 2%; */
+	padding-bottom: 100px;
+}
+
+.OutOfOfficeWebLabelToolbar {
+	margin-bottom: 30px;
+}
+
+.OutOfOfficeWebLabelOOO {
+	width: 100%;
+	font-weight: bold;
+}
+
+.OutOfOfficePanelText {
+	width: 100%;
+}
+
+.OutOfOfficeSubstituteName {
+	line-height: 48px;
+	overflow: hidden !important;
+	text-overflow: ellipsis;
+}
+
+.OutOfOfficeSubstituteDesignation {
+	color: green;
+	line-height: 48px;
+	font-weight: bold;
+	min-width: 22px;
+}
+.OutOfOfficeInputContainer {
+	padding : 12px;
+}
+
+.OutOfOfficeDateBlock {
+	padding-left : 12px;
+	padding-right : 12px;
+	
+}
+
+.OutOfOfficeReasonBlock {
+	padding-left : 12px;
+}
+
+.OutOfOfficeRightBlock {
+	margin-left: 50%;
+}
+
+.OutOfOfficeSubBlock {
+	padding : 12px;
+}
+
+.OutOfOfficeMobileRightBlock {
+    margin-left: 10%;
+}
+
+.OutOfOfficeMobileCheckBox {
+    margin-right: 1.25rem !important;
+}

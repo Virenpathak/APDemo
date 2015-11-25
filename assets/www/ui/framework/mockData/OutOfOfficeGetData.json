@@ -1,0 +1,91 @@
+[{
+	"documentType" : "CreditBlockedOrders",
+	"substitutes" : [{
+		"pid" : "P10123243",
+		"name" : "Virendra Kumar Pathak",
+		"designation" : "AM",
+		"selected" : false
+	},{
+		"pid" : "P10123234",
+		"name" : "Poonam Kohli",
+		"designation" : "RM",
+		"selected" : true
+	},{
+		"pid" : "P1033234",
+		"name" : "Satish",
+		"designation" : "AM",
+		"selected" : true
+	},{
+		"pid" : "P1037634",
+		"name" : "Sachin",
+		"designation" : "AM",
+		"selected" : false
+	}]
+}, {
+	"documentType" : "DiscountOrders",
+	"substitutes" : [{
+		"pid" : "P1014533",
+		"name" : "Virendra Pathak",
+		"designation" : "AM",
+		"selected" : true
+	},{
+		"pid" : "P10197834",
+		"name" : "Kohli Poonam",
+		"designation" : "RM",
+		"selected" : true
+	},{
+		"pid" : "P1033224",
+		"name" : "Satish",
+		"designation" : "AM",
+		"selected" : true
+	},{
+		"pid" : "P1037634",
+		"name" : "Sachin",
+		"designation" : "AM"
+	}]
+}, {
+	"documentType" : "DamagedOrders",
+	"substitutes" : [{
+		"pid" : "P1014533",
+		"name" : "Virendra Pathak",
+		"designation" : "AM",
+		"selected" : false
+	},{
+		"pid" : "P10197834",
+		"name" : "Kohli Poonam",
+		"designation" : "RM",
+		"selected" : true
+	},{
+		"pid" : "P1033224",
+		"name" : "Satish",
+		"designation" : "AM",
+		"selected" : true
+	},{
+		"pid" : "P1037634",
+		"name" : "Sachin",
+		"designation" : "AM"
+	}]
+}, {
+	"documentType" : "MaterialReturn",
+	"substitutes" : [{
+		"pid" : "P1014533",
+		"name" : "Virendra Pathak",
+		"designation" : "AM",
+		"selected" : false
+	},{
+		"pid" : "P10197834",
+		"name" : "Kohli Poonam",
+		"designation" : "RM",
+		"selected" : true
+	},{
+		"pid" : "P1033224",
+		"name" : "Satish",
+		"designation" : "AM",
+		"selected" : false
+	},{
+		"pid" : "P1037634",
+		"name" : "Sachin",
+		"designation" : "AM",
+		"selected" : true
+	}]
+}]

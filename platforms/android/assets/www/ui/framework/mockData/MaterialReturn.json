@@ -1,0 +1,165 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnHeaderSet('0208417382')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnHeaderSet('0208417382')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.MaterialReturnHeader"
+                },
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "mrvOrderDate": "/Date(1444089600000)/",
+                "returnDeliveryDate": "/Date(1444089600000)/",
+                "mrvOrderValue": "214.000",
+                "taxableAmount": "214.000",
+                "taxAmount": "0.000",
+                "totalAmount": "214.000",
+                "volume": "1.000",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "orderNo": "0208417382",
+                "reasonForReturn": "Other",
+                "mrvDepot": "",
+                "distChannel": "20",
+                "returnDeliveryNo": "0410404003",
+                "territory": "00D1554004",
+                "refInvoiceNo": "0208417380",
+                "refInvoiceDate": "/Date(1444089600000)/",
+                "reasonText": "",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 3,
+                "NavMaterialReturnHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnItemSet('00010119210')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnItemSet('00010119210')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.MaterialReturnItem"
+                            },
+                            "skuCode": "00010119210",
+                            "materialDesc": "APCO SYN ENAMEL OX  BLUE  1 LT1234567890",
+                            "quantity": "2.000",
+                            "volume": "1.000"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnHeaderSet('0208417382')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnHeaderSet('0208417382')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.MaterialReturnHeader"
+                },
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "mrvOrderDate": "/Date(1444089600000)/",
+                "returnDeliveryDate": "/Date(1444089600000)/",
+                "mrvOrderValue": "214.000",
+                "taxableAmount": "214.000",
+                "taxAmount": "0.000",
+                "totalAmount": "214.000",
+                "volume": "1.000",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "orderNo": "0208417382",
+                "reasonForReturn": "Other",
+                "mrvDepot": "",
+                "distChannel": "20",
+                "returnDeliveryNo": "0410404003",
+                "territory": "00D1554004",
+                "refInvoiceNo": "0208417380",
+                "refInvoiceDate": "/Date(1444089600000)/",
+                "reasonText": "",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 3,
+                "NavMaterialReturnHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnItemSet('00010119210')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnItemSet('00010119210')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.MaterialReturnItem"
+                            },
+                            "skuCode": "00010119210",
+                            "materialDesc": "APCO SYN ENAMEL OX  BLUE  1 LT1234567890",
+                            "quantity": "2.000",
+                            "volume": "1.000"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnHeaderSet('0208417382')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnHeaderSet('0208417382')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.MaterialReturnHeader"
+                },
+                "DocType": "",
+                "UserID": "",
+                "AppRej": "",
+                "deviceID": "",
+                "isMobile": "",
+                "remarks": "",
+                "mrvOrderDate": "/Date(1444089600000)/",
+                "returnDeliveryDate": "/Date(1444089600000)/",
+                "mrvOrderValue": "214.000",
+                "taxableAmount": "214.000",
+                "taxAmount": "0.000",
+                "totalAmount": "214.000",
+                "volume": "1.000",
+                "customerCode": "0000144467",
+                "customerName": "TESTER..45435435",
+                "city": "Chennai",
+                "shipToParty": "0000144467",
+                "shipToPartyName": "TESTER..45435435",
+                "orderNo": "0208417382",
+                "reasonForReturn": "Other",
+                "mrvDepot": "",
+                "distChannel": "20",
+                "returnDeliveryNo": "0410404003",
+                "territory": "00D1554004",
+                "refInvoiceNo": "0208417380",
+                "refInvoiceDate": "/Date(1444089600000)/",
+                "reasonText": "",
+                "CRCount": 407,
+                "DiscCount": 17,
+                "DamCount": 6,
+                "MRVCount": 3,
+                "NavMaterialReturnHeaderToItem": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnItemSet('00010119210')",
+                                "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/MaterialReturnItemSet('00010119210')",
+                                "type": "ZDRA_RELEASE_APPLICATION_SRV_01.MaterialReturnItem"
+                            },
+                            "skuCode": "00010119210",
+                            "materialDesc": "APCO SYN ENAMEL OX  BLUE  1 LT1234567890",
+                            "quantity": "2.000",
+                            "volume": "1.000"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

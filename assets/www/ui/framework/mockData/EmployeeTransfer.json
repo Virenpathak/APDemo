@@ -1,0 +1,46 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00114444',soText='Region%20-%20Delhi')",
+          "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00114444',soText='Region%20-%20Delhi')",
+          "type": "ZDRA_RELEASE_APPLICATION_SRV_01.EmployeeTransfer"
+        },
+        "empId": "P00114444",
+        "soText": "Region - Delhi",
+        "isRM": "X"
+      },
+      {
+        "__metadata": {
+          "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00110370',soText='1515%20-%20APL%20Jammu')",
+          "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00110370',soText='1515%20-%20APL%20Jammu')",
+          "type": "ZDRA_RELEASE_APPLICATION_SRV_01.EmployeeTransfer"
+        },
+        "empId": "P00110370",
+        "soText": "1515 - APL Jammu",
+        "isRM": ""
+      },
+      {
+        "__metadata": {
+          "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00110370',soText='1508%20-%20APL%20N%20Delhi%20Wazirpur')",
+          "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00110370',soText='1508%20-%20APL%20N%20Delhi%20Wazirpur')",
+          "type": "ZDRA_RELEASE_APPLICATION_SRV_01.EmployeeTransfer"
+        },
+        "empId": "P00110370",
+        "soText": "1508 - APL N Delhi Wazirpur",
+        "isRM": ""
+      },
+      {
+        "__metadata": {
+          "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00110370',soText='1505%20-%20APL%20N%20Delhi%20Badarpur')",
+          "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/EmployeeTransferSet(empId='P00110370',soText='1505%20-%20APL%20N%20Delhi%20Badarpur')",
+          "type": "ZDRA_RELEASE_APPLICATION_SRV_01.EmployeeTransfer"
+        },
+        "empId": "P00110370",
+        "soText": "1505 - APL N Delhi Badarpur",
+        "isRM": ""
+      }
+    ]
+  }
+}

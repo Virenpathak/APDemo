@@ -1,0 +1,21 @@
+.sapMLabel {
+	font-size: 12px;
+}
+
+.sapMText {
+	font-size: 12px;
+}
+
+.sapUiTableRSel .sapUiTableColRowHdr {
+	background-color: #335C99 !important;
+}
+
+.sapUiSizeCompact .sapUiTableColCell>.sapUiLbl, .sapUiSizeCompact .sapUiTableColCell>.sapMLabel,
+	.sapUiSizeCompact .sapUiTableCell>.sapMLabel, .sapUiTableColCell>.sapUiLbl
+	{
+	color: white;
+}
+
+.sapUiTableColHdrCnt {
+	background-color: #335C99;
+}

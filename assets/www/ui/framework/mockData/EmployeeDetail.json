@@ -1,0 +1,36 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/BackendConfigurationSet('ISMANAGER')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/BackendConfigurationSet('ISMANAGER')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.BackendConfiguration"
+                },
+                "UserID": "",
+                "name": "ISMANAGER",
+                "value": "RM"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/BackendConfigurationSet('MASSAPPR')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/BackendConfigurationSet('MASSAPPR')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.BackendConfiguration"
+                },
+                "UserID": "",
+                "name": "MASSAPPR",
+                "value": "5"
+            },
+            {
+                "__metadata": {
+                    "id": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/BackendConfigurationSet('STATUSDATE')",
+                    "uri": "http://172.25.10.102:8000/sap/opu/odata/sap/ZDRA_RELEASE_APPLICATION_SRV_01/BackendConfigurationSet('STATUSDATE')",
+                    "type": "ZDRA_RELEASE_APPLICATION_SRV_01.BackendConfiguration"
+                },
+                "UserID": "",
+                "name": "STATUSDATE",
+                "value": "5"
+            }
+        ]
+    }
+}

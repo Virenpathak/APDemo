@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv='Content-Type' content='text/html;charset=UTF-8' />
+<meta http-equiv="Cache-Control"
+	content="no-cache, no-store, must-revalidate" />
+        
+<script id="sap-ui-bootstrap" type="text/javascript"
+		data-sap-ui-preload="none" data-sap-ui-libs="sap.m, sap.ui.commons, sap.ui.table" data-sap-ui-theme="sap_bluecrystal"
+	src="https://sapui5.netweaver.ondemand.com/resources/sap-ui-core.js" data-sap-ui-xx-bindingSyntax="complex"
+	data-sap-ui-resourceroots='{
+				"asianpaints.dra" : "./",
+				"views" : "./views",
+				"modules" : "./modules",
+				"controls" : "./controls",
+				"framework" : "./framework"
+				}'>
+	
+</script>
+<!-- only load the mobile lib "sap.m" and the "sap_bluecrystal" theme -->
+
+<link type="text/css" rel="stylesheet" href="css/style.css" />
+<link type="text/css" rel="stylesheet" href="css/w/style_w.css" />
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/SplitAppDetailPageWeb.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/m/css/SplitAppDetailPageMobile.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/m/css/PushNotification.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/EmployeeTransfer.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/DynamicTable.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/OutOfOffice.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/m/css/DocumentDetail.css">
+<link rel="stylesheet" type="text/css"
+	href="modules/w/css/DocumentDetail.css">
+<script>
+
+	var ologinData = {};
+	var aLoginData = [];
+	var SearchString = window.location.search.substring(1);
+    var VariableArray = SearchString.split('&');
+    for(var i = 0; i < VariableArray.length; i++){
+        var KeyValuePair = VariableArray[i].split('=');        
+        switch(KeyValuePair[0]){
+        
+        case 'uId' : ologinData.userId = KeyValuePair[1];
+        			 break;
+        case 'pwd' : ologinData.psswd = KeyValuePair[1];
+        			 break;
+        case 'appCid' : ologinData.appCID = KeyValuePair[1];
+        				break;
+        default: break;
+        }         
+    }
+    
+    aLoginData.push(ologinData);
+    
+    var oModel = new sap.ui.model.json.JSONModel();
+    oModel.setData({data:aLoginData});
+    
+    sap.ui.getCore().setModel(oModel,"loginDataModel");
+    
+    // Accessing Service
+    
+    var mHeaders = {"X-SMP-APPCID": ologinData.appCID};
+    var oDModel = new sap.ui.model.odata.ODataModel("http://apsmpdev.asianpaints.com:8080/com.asianpaints.docrelease", true, ologinData.userId, ologinData.psswd, mHeaders);
+ 
+	//oDModel.create("/SMPRegistrationSet",{"deviceType":"A"},null, function(data){alert("successfully Posted");},function(data){alert("Error in posting data");});
+    
+	new sap.m.Shell("Shell", {
+		title : "Document Release Application",
+		app : new sap.ui.core.ComponentContainer({
+			name : 'asianpaints.dra',
+		})
+	}).placeAt("content");
+	
+	
+</script>
+
+</head>
+<body class="sapUiBody" role="application">
+	<div id="content"></div>
+</body>
+</html>

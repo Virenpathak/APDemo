@@ -1,0 +1,57 @@
+.documentDetailMobMainVBox {
+	background-color: white;
+	padding-bottom: 100px;
+}
+
+.documentDetailBlockVBox {
+	background-color: white;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	height: 100%;
+	width: 90%;
+	height: 93%;
+}
+
+.documentDetailBlockTitle {
+	font-size: 26px;
+	color: #009de0;
+	font-family: tahoma thin;
+}
+
+.documentDetailFieldVBox {
+	
+}
+
+.documentDetailFieldName {
+	font-size: 13px;
+	color: #757575;
+	padding-top: 12px;
+	padding-bottom: 5px;
+	font-family: tahoma light;
+}
+
+.documentDetailFieldValue {
+	font-size: 16px;
+	color: #5e5e5e;
+	font-weight: bold;
+	font-family: tahoma medium;
+}
+
+.documentDetailFieldValueRed {
+	font-size: 16px;
+	color: #cc1919;
+	font-weight: bold;
+	font-family: tahoma medium;
+}
+
+.documentDetailWebDetailsTableBlock {
+	width: 100%;
+}
+
+.documentDetailWebBlockList {
+	padding-left: 5%;
+	width: 95% !important;
+	border-style: ridge;
+}

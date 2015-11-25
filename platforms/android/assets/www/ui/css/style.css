@@ -1,0 +1,8 @@
+.sapMGlobalBackgroundImage {
+	background-color: white;
+}
+
+.sapMPage>.sapMPageHeader+section, .sapMPage>.sapMPageSubHeader+section,
+	.sapMPage>.sapMPageHeader+.sapUiHiddenPlaceholder+section {
+	height: 100%;
+}
